@@ -1,0 +1,9 @@
+.toolName{height:40px;background-color:#ADCEFF;text-align:center;font-family:helvetica;max-width:600px;margin:auto}
+h1 {font-size:20px;padding-top:10px;padding-bottom:10px}
+.letterInput {font-size:14px;background-color:#ADCEFF;border:none}
+.goButton{background-color:#6DE796;border:groove;font-size:14px;font-family:helvetica}
+.prompt {text-align:center;font-family:helvetica}
+.fiveLetters {max-width:200px; display:grid;gap:5px;text-align:center;font-size:14px;font-family:helvetica;grid:30px 5px/auto auto auto auto auto;margin:auto}
+.oneLetter{background-color:#6DE796;padding-bottom:8px;padding-top:8px}
+.letters{display:grid;gap:5px;font-family:helvetica;font-size:14px;text-align:center;grid:30px 30px / auto auto auto auto auto auto auto auto auto auto auto auto auto;background-color:#ADCEFF;padding:5px;max-width:600px;margin:auto}
+.letter{padding-bottom:8px;padding-top:8px}
